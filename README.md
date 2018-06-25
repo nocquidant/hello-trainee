@@ -1,4 +1,4 @@
 # hello-trainee
 
-Please run me from a k8s service :)
+Please run me then call me from outside the k8s cluster :)
 
